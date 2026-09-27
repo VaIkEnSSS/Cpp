@@ -1,0 +1,8 @@
+﻿  variable.cpp
+C:\Users\Дарт Максон\source\repos\variable\variable\variable.cpp(27,8): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\variable\variable\variable.cpp(28,21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\variable\variable\variable.cpp(29,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\variable\variable\variable.cpp(19,8): warning C4101: speed: неиспользованная локальная переменная
+C:\Users\Дарт Максон\source\repos\variable\variable\variable.cpp(54,11): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\variable\variable\variable.cpp(55,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  variable.vcxproj -> C:\Users\Дарт Максон\source\repos\variable\x64\Debug\variable.exe
