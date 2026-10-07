@@ -1,0 +1,26 @@
+﻿  28.09 homework.cpp
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(15,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(18,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(21,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(25,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(28,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(31,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(35,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(38,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(41,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(71,137): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(72,49): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(72,90): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(92,24): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(96,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(107,24): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(111,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(122,24): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(126,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(137,24): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(141,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(157,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(164,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(71,11): warning C4101: paid_pizza: неиспользованная локальная переменная
+C:\Users\Дарт Максон\source\repos\28.09 homework\28.09 homework\28.09 homework.cpp(71,23): warning C4101: free_pizza: неиспользованная локальная переменная
+  28.09 homework.vcxproj -> C:\Users\Дарт Максон\source\repos\28.09 homework\x64\Debug\28.09 homework.exe
