@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="checkpoint2/checkpoint2.vcxproj" Id="1fdfbd03-d8ba-4aca-9629-d7c5b84db522" />
+</Solution>
