@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Chkpt/Chkpt.vcxproj" Id="2f9730a0-f226-4b47-96b9-2408d7abb89e" />
+</Solution>
