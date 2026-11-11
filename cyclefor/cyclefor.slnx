@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cyclefor/cyclefor.vcxproj" Id="a136f937-44c5-4d32-b530-060a5b8a512a" />
+</Solution>
