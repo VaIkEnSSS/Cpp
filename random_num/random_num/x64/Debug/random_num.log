@@ -1,0 +1,5 @@
+﻿  random_num.cpp
+C:\Users\Дарт Максон\source\repos\random_num\random_num\random_num.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\random_num\random_num\random_num.cpp(91,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\random_num\random_num\random_num.cpp(112,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  random_num.vcxproj -> C:\Users\Дарт Максон\source\repos\random_num\x64\Debug\random_num.exe
