@@ -1,0 +1,4 @@
+﻿  function.cpp
+C:\Users\Дарт Максон\source\repos\function\function\function.cpp(26,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Дарт Максон\source\repos\function\function\function.cpp(152,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  function.vcxproj -> C:\Users\Дарт Максон\source\repos\function\x64\Debug\function.exe
