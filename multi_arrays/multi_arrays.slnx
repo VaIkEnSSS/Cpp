@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="multi_arrays/multi_arrays.vcxproj" Id="05c2e886-b96c-4e54-bc7d-85b70192bd50" />
+</Solution>

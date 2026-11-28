@@ -1,0 +1,3 @@
+﻿  multi_arrays.cpp
+C:\Users\Дарт Максон\source\repos\multi_arrays\multi_arrays\multi_arrays.cpp(206,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  multi_arrays.vcxproj -> C:\Users\Дарт Максон\source\repos\multi_arrays\x64\Debug\multi_arrays.exe
